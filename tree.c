@@ -42,26 +42,4 @@ int tree_from_index(ObjectID *id_out) {
 
     return 0;
 }
-// phase2 step1
-// phase2 step2
-// phase2 step3
-// phase2 step3
-// phase2 step4
-// phase2 step5
-// phase3 step1
-// phase3 step2
-// phase3 step3
-// phase3 step4
-// phase3 step5
-// phase4 step1
-// phase4 step2
-// phase4 step3
-// phase4 step4
-// phase4 step4
-// phase4 step5
-// phase4 step1
-// phase4 step2
-// phase4 step2
-// phase4 step3
-// phase4 step4
-// phase4 step5
+// phase1 step1
